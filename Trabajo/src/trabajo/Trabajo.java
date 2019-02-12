@@ -18,7 +18,8 @@ public class Trabajo {
       
      
         System.out.println("Hola clase. Buenos dias.");
-   
+        System.out.println("Se ha quedado buen dia.");
+      
     }
     
 }
